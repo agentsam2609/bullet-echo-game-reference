@@ -109,3 +109,12 @@ Throughout this repository, the following terminology is used consistently.
 ---
 
 Contributions and corrections are welcome if they improve factual accuracy while keeping the repository concise and objective.
+
+---
+
+
+## Disclaimer
+
+This repository is not affiliated with ZeptoLab.
+
+Bullet Echo and related assets belong to their respective owners.
